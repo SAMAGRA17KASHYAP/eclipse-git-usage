@@ -2,6 +2,7 @@ package org.samagra.models;
 
 public class User {
 	int age;
+	String name;
 
 	public int getAge() {
 		return age;
